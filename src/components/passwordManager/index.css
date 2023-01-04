@@ -1,0 +1,124 @@
+.password-container{
+display: flex;
+flex-direction: column;
+}
+.bg-container{
+    background-color: #9ba9eb;
+    height:100vh
+}
+.logo-image{
+    width:150px;
+    margin-left: 50px;
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+.main-container{
+    background-color: #5763a5;
+    border-radius: 10px;
+    margin-top:30px;
+    margin-left:60px;
+    margin-right: 60px;
+    display:flex;
+    justify-content: space-between;
+
+}
+.input-box{
+    background-color: #454f84;
+    border-radius: 10px;
+    margin:40px;
+    width: 40%;
+}
+.website-input{
+    width:300px;
+    height:35px;
+
+}
+.website-input-container{
+    display: flex;
+    padding:10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.website-img{
+    width:20px;
+    height:20px;
+}
+.add-pass-heading{
+    font-size: 20px;
+    color: white;
+    margin-left: 30px;
+    font-weight: 500;
+    padding: 20px;
+
+}
+.add-button{
+background-color: #0b69ff;
+color:white;
+width: 60px;
+height:30px;
+font-size: 15px;
+border-width: 0px;
+text-align: center;
+margin-bottom: 20px;
+}
+.button-add{
+    text-align: right;
+    margin-right:20px;
+}
+.person-img{
+    width: 300px;
+    height:300px;
+    margin-left: 60px;
+    margin-right: 100px;
+}
+.input-header{
+    display: flex;
+    flex-direction: column;
+}
+.bottom-container {
+    background-color: #5763a5;
+    border-radius: 10px;
+    margin-top:30px;
+    margin-left:60px;
+    margin-right: 60px;
+    height:60%
+}
+.your-password-container{
+    display: flex;
+    justify-content: space-between;
+    margin:20px
+}
+.serach-box{
+    height:30px;
+    margin:20px;
+    width: 200px;
+
+}
+.span-text{
+    background-color: #454f84;
+    border: 1px;
+    color: white;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+.para{
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+}
+.label{
+    color: white;
+}
+.show-pass-sec{
+    text-align: right;
+    margin:20px;
+}
+.no-password-image{
+    width:250px;
+    height:250px;
+    text-align: center;
+}
+.img-2{
+    text-align: center;
+}
